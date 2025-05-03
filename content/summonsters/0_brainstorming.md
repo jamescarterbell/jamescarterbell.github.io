@@ -146,6 +146,6 @@ Okay, I'm tired of just typing things that I've been thinking about for a while 
 
 ![Silly Attack Design](images/pounce.png "Pounce")
 
-Don't take the assets and colors too seriously, I'm just looking for a reasonably good layout.
+Don't take the assets and colors too seriously, I'm just looking for a reasonably good layout to start.
 
 This article has taken me longer than expected to do me being a slow writer, needing to set up the site, and having a job/hobbies/wife/workouts... so the next article could be a while, but when and if it happens, it will be about a first play test with some friends and will include a full print and play pdf of rules and starting deck.  I would put that in this article, but I need to actually design the cards and write the rules, not just the general ideas for the rules.
