@@ -111,6 +111,29 @@ The above card can be played as an attack during your turn, or it can be attache
 
 Now we've touched on types, card types, and turn structure, we really have most of the basics down for a really shitty play test, there's just one more thing I want to add before talking about card layouts: I hate prize cards.  Prize cards are a win more mechanic and are dumb.  I want to have a loose rubber banding mechanic, and for this system I think it's going to be by making ***Monstes*** double faced: when one of your monsters is knocked out, they're flipped and added to your hand as a special ***Action***.  We'll see if this is too much or kind of cool.
 
+## Basic Rules
+
+So to tie all the above together into some basic rules for how this will play for play testing:
+
+1. Each player comes to the table with 6 monsters and a 60 card deck (or 4 and 40 for small games).
+2. Each player chooses two of their monsters seceretly to start on the field, the others start on the bench face down.
+3. The players randomly choose the first player, each draw 5 cards, then start playing rounds until a winner is decided.
+
+A round plays out as follows:
+
+1. Action Phase: Players take 1 action per turn back and forth until both pass:
+    * Commit an action in hand for a monster.
+    * Support a monster with a card in hand.
+    * Discard a card to switch a monster out with a benched monster (revealing it if it hasn't been revealed yet.) (All counters on the monster are removed, and all supporting cards immediately go to the bottom of your deck.)
+    * Passing.
+2. Draw Phase: Once both players have passed, they draw back up to 5 cards.
+3. Roll Phase: Roll a dice for each acting monster.
+4. Resolution Phase: In order of the monsters speed, each monster carries out their actions.
+    * Speed ties between players are decided by turn order.
+    * Speed ties between a players own monster are decided by the player.
+    * Damage dealt to a monster is calculated by subtracting the monsters defense from the damage being dealt.  If the damage is reduced to 0 at this stage, instead deal 1 damage.  Once the amount of damage being dealt is calculated, apply any aspect bonuses or penalties.  After a monster is dealt damage, if it has more damaged marked on it than it does health, it is knocked out and the owner returns it to their hand flipped.
+5. After all monsters have carried out their actions, put any supporting cards on the bottom of their owners deck.
+
 ## Initial Layout
 
 Okay, I'm tired of just typing things that I've been thinking about for a while instead of showing the card layouts I was playing around in conjunction with coming up with the ideas (I want to see how much is reasonable to put on a card).  Also, yes I am using AI art for this: I want something that can allow me to quickly recognize a card while I'm prototyping and playtesting, and this is already incredibly time consuming and iterative, if this ever moves on from being a shitter side project I'll upgrade all the assets used.
