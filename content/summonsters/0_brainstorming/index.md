@@ -1,6 +1,6 @@
 +++
 title = "0 - Brainstorming"
-date = 2019-11-27
+date = 2025-05-03
 template = "article.html"
 +++
 
