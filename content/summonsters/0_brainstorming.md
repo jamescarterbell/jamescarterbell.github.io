@@ -53,7 +53,7 @@ Nearly doubles it's word count just for the mechanic.  However, I think I have a
 
 The design element I'm thinking of is based on **Star Wars: Destiny**, a really wacky Trading Dice Game that got discontinued a few years ago.  The game had unique dice per character card that you would roll to deal damage, gain resources, etc.  Having dice also opened up the effect of managing dice: selecting specific sides, rerolling dice, using rolled dice as a resource, etc. 
 
-<img src="![/images/fire_lord.png](https://images-cdn.fantasyflightgames.com/filer_public/74/2c/742c9f57-4e44-4128-9ba0-9aeb77f401d9/swd14-16_pl_cardfan_1.png)" alt="Star Wars Destiny" width="250"/>
+<img src="https://images-cdn.fantasyflightgames.com/filer_public/74/2c/742c9f57-4e44-4128-9ba0-9aeb77f401d9/swd14-16_pl_cardfan_1.png" alt="Star Wars Destiny" width="250"/>
 
 It was a cool system and I'd like to take the idea of using dice in that manner, but instead of attaching them to the characters, attach dice to the ***Action*** cards.  I'm also going to avoid using specific dice, since having a dice per card in your deck is insane.  Instead, all the cards will use d6's.  Now I can introduce accuracy and aspects in a pretty straight forward way, let's look at the beginnings of a card idea:
 
