@@ -140,11 +140,11 @@ Okay, I'm tired of just typing things that I've been thinking about for a while 
 
 ***Monsters*** are pretty straight forward, they have a name, a type, an aspect, an ability, and some stats:
 
-<img src="./fire_lord.png" alt="Silly Monster Design" width="250"/>
+<img src="fire_lord.png" alt="Silly Monster Design" width="250"/>
 
 ***Actions*** are a bit more complex given they have multiple potential clauses, a name, a type, an aspect and supporting stats that need to be layed out in a distinct way to make an intuitive distinction from the other mode of play.  I've decided to go with a form of the flip card design from old Kamigawa sets, it's a bit ugly, but it's also very distinct and clearly seperates the play mode from the support mode:
 
-<img src="./pounce.png" alt="Silly Attack Design" width="250"/>
+<img src="pounce.png" alt="Silly Attack Design" width="250"/>
 
 Don't take the assets and colors too seriously, I'm just looking for a reasonably good layout to start.
 
