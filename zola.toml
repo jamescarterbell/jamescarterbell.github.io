@@ -19,6 +19,7 @@ dark_theme = "github-dark-default"
 
 [extra]
 header_menu_name = "main"
+inline_code_fix = true
 
 [extra.menus]
 main = [
