@@ -1,0 +1,36 @@
+base_url = "https://jamescarterbell.github.io/jamescarterbell"
+theme = "linkita"
+title = "James Bell"
+description = "Notes, ideas, and things I'm learning."
+author = "jamescarterbell"
+default_language = "en"
+minify_html = true
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+build_search_index = true
+taxonomies = [{ name = "tags", feed = true }]
+
+[markdown]
+smart_punctuation = true
+
+[markdown.highlighting]
+light_theme = "light-plus"
+dark_theme = "github-dark-default"
+
+[extra]
+header_menu_name = "main"
+
+[extra.menus]
+main = [
+    { url = "@base/blog/", name = "Archive" },
+    { url = "@base/tags/", name = "Tags" },
+    { url = "@base/about/", name = "About" },
+]
+
+[extra.profiles.jamescarterbell]
+name = "James Bell"
+bio = "Notes, ideas, and things I'm learning."
+social = [
+    { name = "github", url = "https://github.com/jamescarterbell" },
+    { name = "rss", url = "@base/atom.xml" },
+]
